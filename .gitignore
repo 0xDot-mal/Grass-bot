@@ -9,5 +9,6 @@ lerna-debug.log*
 
 node_modules
 config.json
+package-lock.json
 
 # Ignoring the build folder
