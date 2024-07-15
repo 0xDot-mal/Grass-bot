@@ -1,0 +1,22 @@
+{
+  "name": "grass-bot",
+  "version": "2.0.0",
+  "description": "null",
+  "main": "src/index.jsx",
+  "scripts": {
+    "test": "ping pong"
+  },
+  "keywords": [
+    "reminder",
+    "remind",
+    "moderator"
+  ],
+  "author": "crxmoncontact@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  },
+  "devDependencies": {
+    "eslint": "^9.7.0"
+  }
+}
