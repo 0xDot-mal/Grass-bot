@@ -26,13 +26,14 @@ npm install
 
 <br>
 
-# 4.Edit the source code and add what you want from commands etc..
+# 4.Edit the source code 
+### And add what you want from commands etc..
 
 <br>
 
 # 5.make a merge request
 
-# and your done!
+### and your done!
 
 ## If you dont have node.js:
 
